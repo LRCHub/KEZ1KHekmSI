@@ -1,152 +1,152 @@
 {
   "version": 1,
-  "base_track": "Diary",
+  "base_track": "yume",
   "base_artist": "SEKAI NO OWARI",
-  "createdAt": "2025-12-02T11:48:30.580267Z",
+  "createdAt": "2025-12-02T11:48:32.106930Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Human Diary - The Vocals",
-      "artist": "Danielle Bradbery",
+      "title": "Ano yume wo nazotte",
+      "artist": "YOASOBI",
       "has_synced": true,
-      "path": "select/01_Human_Diary_-_The_Vocals_Danielle_Bradbery.lrc"
+      "path": "select/01_Ano_yume_wo_nazotte_YOASOBI.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Nobody's Diary",
-      "artist": "Yazoo",
+      "title": "Natsuno Yume",
+      "artist": "Vickeblanka",
       "has_synced": true,
-      "path": "select/02_Nobody's_Diary_Yazoo.lrc"
+      "path": "select/02_Natsuno_Yume_Vickeblanka.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Nobody's Diary (Extended Version)",
-      "artist": "Yazoo",
+      "title": "Yume Utsutsu",
+      "artist": "Lamp",
       "has_synced": true,
-      "path": "select/03_Nobody's_Diary_(Extended_Version)_Yazoo.lrc"
+      "path": "select/03_Yume_Utsutsu_Lamp.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Dear Diary",
-      "artist": "Luna",
+      "title": "Yume no Naka no Watashi no Yume",
+      "artist": "伊藤真澄",
       "has_synced": false,
-      "path": "select/04_Dear_Diary_Luna.txt"
+      "path": "select/04_Yume_no_Naka_no_Watashi_no_Yume_伊藤真澄.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Diary of Love",
-      "artist": "Michael Nyman",
+      "title": "Yume De Aetara (10th Anniversary Solo Version)",
+      "artist": "Masayuki Suzuki",
       "has_synced": false,
-      "path": "select/05_Diary_of_Love_Michael_Nyman.txt"
+      "path": "select/05_Yume_De_Aetara_(10th_Anniversary_Solo_Version)_Masayuki_Suzuki.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "My British Tour Diary",
-      "artist": "of Montreal",
+      "title": "Yume no Tsuzuki",
+      "artist": "Mariya Takeuchi",
       "has_synced": true,
-      "path": "select/06_My_British_Tour_Diary_of_Montreal.lrc"
+      "path": "select/06_Yume_no_Tsuzuki_Mariya_Takeuchi.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Dear Diary",
-      "artist": "Travis",
+      "title": "Yume no Tsuzuki",
+      "artist": "Mariya Takeuchi",
       "has_synced": true,
-      "path": "select/07_Dear_Diary_Travis.lrc"
+      "path": "select/07_Yume_no_Tsuzuki_Mariya_Takeuchi.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Diary of a Madman",
-      "artist": "Ozzy Osbourne",
-      "has_synced": true,
-      "path": "select/08_Diary_of_a_Madman_Ozzy_Osbourne.lrc"
+      "title": "Yumeno Mata Yume",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/08_Yumeno_Mata_Yume_Masayuki_Suzuki.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Diary of an Unknown Soldier",
-      "artist": "Sabaton",
+      "title": "A Midsummer Night's Dream / Manatsu No Yo No Yume",
+      "artist": "Yumi Matsutoya",
       "has_synced": false,
-      "path": "select/09_Diary_of_an_Unknown_Soldier_Sabaton.txt"
+      "path": "select/09_A_Midsummer_Night's_Dream___Manatsu_No_Yo_No_Yume_Yumi_Matsutoya.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Death's Diary",
-      "artist": "Marc Almond",
-      "has_synced": true,
-      "path": "select/10_Death's_Diary_Marc_Almond.lrc"
+      "title": "A Midsummer Night's Dream / Manatsu No Yo No Yume (Remastered 2019)",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/10_A_Midsummer_Night's_Dream___Manatsu_No_Yo_No_Yume_(Remastered_2019)_Yumi_Matsutoya.txt"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Nobody's Diary - Live",
-      "artist": "Alison Moyet",
+      "title": "Yume Yume",
+      "artist": "ONE OK ROCK",
       "has_synced": true,
-      "path": "select/11_Nobody's_Diary_-_Live_Alison_Moyet.lrc"
+      "path": "select/11_Yume_Yume_ONE_OK_ROCK.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Nobody's Diary (live)",
-      "artist": "Alison Moyet",
+      "title": "Yume Yume",
+      "artist": "ONE OK ROCK",
       "has_synced": true,
-      "path": "select/12_Nobody's_Diary_(live)_Alison_Moyet.lrc"
+      "path": "select/12_Yume_Yume_ONE_OK_ROCK.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Nobody’s Diary",
-      "artist": "Yazoo",
+      "title": "Yume no You na",
+      "artist": "Yusuke Saeki",
       "has_synced": true,
-      "path": "select/13_Nobody’s_Diary_Yazoo.lrc"
+      "path": "select/13_Yume_no_You_na_Yusuke_Saeki.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "The Diary of Horace Wimp",
-      "artist": "Electric Light Orchestra",
+      "title": "Yume Kataruyori Yume Utaou",
+      "artist": "Aqours",
       "has_synced": true,
-      "path": "select/14_The_Diary_of_Horace_Wimp_Electric_Light_Orchestra.lrc"
+      "path": "select/14_Yume_Kataruyori_Yume_Utaou_Aqours.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "Dear Diary",
-      "artist": "Róisín Murphy",
+      "title": "Yume no Tsuzuki",
+      "artist": "Konomi Suzuki",
       "has_synced": true,
-      "path": "select/15_Dear_Diary_Róisín_Murphy.lrc"
+      "path": "select/15_Yume_no_Tsuzuki_Konomi_Suzuki.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "Diary Of A Stranger",
-      "artist": "Bloodhound Gang",
+      "title": "Yume Cinderella (Explicit)",
+      "artist": "Momo Asakura",
       "has_synced": true,
-      "path": "select/16_Diary_Of_A_Stranger_Bloodhound_Gang.lrc"
+      "path": "select/16_Yume_Cinderella_(Explicit)_Momo_Asakura.lrc"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
-      "title": "Diary Of A Stranger",
-      "artist": "The Bloodhound Gang",
+      "title": "Yume no Tobira",
+      "artist": "μ's",
       "has_synced": true,
-      "path": "select/17_Diary_Of_A_Stranger_The_Bloodhound_Gang.lrc"
+      "path": "select/17_Yume_no_Tobira_μ's.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Diary",
+      "title": "yume",
       "artist": "SEKAI NO OWARI",
       "has_synced": false,
-      "path": "select/pl_01_Diary_SEKAI_NO_OWARI.txt"
+      "path": "select/pl_01_yume_SEKAI_NO_OWARI.txt"
     }
   ]
 }
